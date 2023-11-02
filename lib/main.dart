@@ -3,6 +3,7 @@ import 'package:lesson_beginner_widget/pages/home/home_page.dart';
 import 'package:lesson_beginner_widget/pages/home/other_pages/page_1.dart';
 import 'package:lesson_beginner_widget/pages/home/other_pages/page_2.dart';
 import 'package:lesson_beginner_widget/pages/home/other_pages/page_3.dart';
+import 'package:lesson_beginner_widget/pages/home/other_pages/page_4.dart';
 
 void main() {
   runApp(const MyApp());
@@ -26,6 +27,7 @@ class MyApp extends StatelessWidget {
         PageOne.route:(context) =>const PageOne(),
         PageTwo.route:(context) => const PageTwo(),
         PageThree.route:(context) => const PageThree(),
+        PageFour.route:(context) => const PageFour(),
       },
     );
   }

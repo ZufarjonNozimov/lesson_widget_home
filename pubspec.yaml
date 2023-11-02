@@ -90,6 +90,9 @@ flutter:
     - family: Anton
       fonts:
        - asset: assat/fonts/Anton-Regular.ttf
+    - family: Caveat
+      fonts:
+       - asset: assat/fonts/Anton-Regular.ttf  
 
   #
   # For details regarding fonts from package dependencies,
