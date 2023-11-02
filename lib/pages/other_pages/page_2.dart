@@ -52,7 +52,7 @@ class PageTwo extends StatelessWidget {
               fontFamily: "Griffy",
               decoration: TextDecoration.underline,
               decorationColor: Colors.black,
-              fontSize: 23,
+              fontSize: 20,
               decorationStyle: TextDecorationStyle.wavy,
             ),
           )
