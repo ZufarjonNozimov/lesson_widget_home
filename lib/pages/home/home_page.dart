@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:lesson_beginner_widget/pages/home/other_pages/page_1.dart';
+import 'package:lesson_beginner_widget/pages/other_pages/page_1.dart';
 
 class HomePage extends StatelessWidget {
    HomePage({super.key});

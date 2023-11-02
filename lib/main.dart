@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:lesson_beginner_widget/pages/home/home_page.dart';
-import 'package:lesson_beginner_widget/pages/home/other_pages/page_1.dart';
-import 'package:lesson_beginner_widget/pages/home/other_pages/page_2.dart';
-import 'package:lesson_beginner_widget/pages/home/other_pages/page_3.dart';
-import 'package:lesson_beginner_widget/pages/home/other_pages/page_4.dart';
+import 'package:lesson_beginner_widget/pages/other_pages/page_1.dart';
+import 'package:lesson_beginner_widget/pages/other_pages/page_2.dart';
+import 'package:lesson_beginner_widget/pages/other_pages/page_3.dart';
+import 'package:lesson_beginner_widget/pages/other_pages/page_4.dart';
 
 void main() {
   runApp(const MyApp());

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:lesson_beginner_widget/pages/home/other_pages/page_2.dart';
+import 'package:lesson_beginner_widget/pages/other_pages/page_2.dart';
 
 class PageOne extends StatelessWidget {
   const PageOne({super.key});
